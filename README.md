@@ -1,44 +1,44 @@
-# Hi there, I'm GeonHo 👋
-
-## About Me
-I'm a 24-year-old student passionate about software development and technology. I have experience in developing applications using various programming languages including C#, Java, and Go.
+## Notice
 Most of the repositories are set to Private, but I'll give you permission to view the repository if you request it!
 
-## 🚀 Skills
-- **Languages**: 
-  - C#
-  - Java
-  - Go
-- **Technologies**: 
-  - C# Winform
-  - Spring Boot
-  - Gin
-- **Databases**: 
-  - MySQL
-  - MongoDB
+
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=00bfff&height=150&section=header&text=Hello,%20I'm%20GeonHo&fontSize=36&animation=fadeIn&fontColor=00bfff)
+
+<div align="center">
+    <h2>💻Tech Stack💻<h2/>
+    <img src="https://img.shields.io/badge/C-A8B9CC"/>
+    <img src="https://img.shields.io/badge/C++-3776AB"/>
+    <img src="https://img.shields.io/badge/Golang-00bfff"/>
+    <img src="https://img.shields.io/badge/C%20Sharp-512BD4"/>
+    <img src="https://img.shields.io/badge/Python-3776AB"/><br/>
+    <img src="https://img.shields.io/badge/Linux-FCC624"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420"/>
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84"/>
+    <img src="https://img.shields.io/badge/Unity-000000"/>
+    <br/><br/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="70" />
+    <br/><br/>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverTook&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&&color=00bfff&height=150&section=footer&fontSize=50&animation=fadeIn&fontColor=00bfff)
+
 
 ## 🏆 Achievements & Experience
 - **2020 ~ 2021**: Worked on game developing and C# outsourcing projects
 - **2022**: Awarded the Encouragement Prize at the Chungcheongbuk-do Public Data Utilization Startup Competition
 - **2023**: Won the Excellence Award at the Big Contest
   
-## 📂 Projects
-Here are a few projects I've worked on:
-
-### [Project 1](https://github.com/OverTook/Examination)
-설명: 데이터베이스 텀 프로젝트 (시험 관리 시스템) 입니다.
-
-### [Project 2](https://github.com/OverTook/LivestockCare_ChatBot)
-설명: 2024 농림축산식품부 공공데이터 활용 창업경진대회 출품 애플리케이션입니다.
+<br>
 
 ## 📫 How to Reach Me
 - Email: rhrjsgh000@naver.com
 - Instagram: [g_og_ang](https:/instagram.com/g_og_ang/)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
+<br>
+<br>
 
 ⭐️ From [OverTook](https://github.com/OverTook)
