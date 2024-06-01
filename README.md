@@ -36,7 +36,7 @@ Most of the repositories are set to Private, but I'll give you permission to vie
 
 ## 📫 How to Reach Me
 - Email: rhrjsgh000@naver.com
-- Instagram: [g_og_ang](https::/instagram.com/g_og_ang/)
+- Instagram: [g_og_ang](https://instagram.com/g_og_ang/)
 
 <br>
 <br>
