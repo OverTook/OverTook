@@ -25,12 +25,13 @@ Most of the repositories are set to Private, but I'll give you permission to vie
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&&color=00bfff&height=150&section=footer&fontSize=50&animation=fadeIn&fontColor=00bfff)
-
+<br>
+<br>
 
 ## 🏆 Achievements & Experience
-- **2020 ~ 2021**: Worked on game developing and C# outsourcing projects
-- **2022**       : Awarded the Encouragement Prize at the **충청북도 공공데이터 활용 창업경진대회**
-- **2023**       : Won the Excellence Award at the **Big Contest**
+- **2020 ~ 2021**&nbsp;: Worked on game developing and C# outsourcing projects
+- **2022**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Awarded the Encouragement Prize at the **충청북도 공공데이터 활용 창업경진대회**
+- **2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Won the Excellence Award at the **Big Contest**
   
 <br>
 
