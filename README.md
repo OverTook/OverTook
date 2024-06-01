@@ -1,7 +1,5 @@
 # Hi there, I'm GeonHo 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=OverTook&color=brightgreen)
-
 ## About Me
 I'm a 24-year-old student passionate about software development and technology. I have experience in developing applications using various programming languages including C#, Java, and Go.
 Most of the repositories are set to Private, but I'll give you permission to view the repository if you request it!
