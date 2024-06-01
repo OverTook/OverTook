@@ -23,7 +23,7 @@ Most of the repositories are set to Private, but I'll give you permission to vie
 - **2020 ~ 2021**: Worked on game developing and C# outsourcing projects
 - **2022**: Awarded the Encouragement Prize at the Chungcheongbuk-do Public Data Utilization Startup Competition
 - **2023**: Won the Excellence Award at the Big Contest
-- 
+  
 ## 📂 Projects
 Here are a few projects I've worked on:
 
