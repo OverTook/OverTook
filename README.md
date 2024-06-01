@@ -29,14 +29,14 @@ Most of the repositories are set to Private, but I'll give you permission to vie
 
 ## 🏆 Achievements & Experience
 - **2020 ~ 2021**: Worked on game developing and C# outsourcing projects
-- **2022**: Awarded the Encouragement Prize at the Chungcheongbuk-do Public Data Utilization Startup Competition
-- **2023**: Won the Excellence Award at the Big Contest
+- **2022**       : Awarded the Encouragement Prize at the **충청북도 공공데이터 활용 창업경진대회**
+- **2023**       : Won the Excellence Award at the **Big Contest**
   
 <br>
 
 ## 📫 How to Reach Me
 - Email: rhrjsgh000@naver.com
-- Instagram: [g_og_ang](https:/instagram.com/g_og_ang/)
+- Instagram: [g_og_ang](https::/instagram.com/g_og_ang/)
 
 <br>
 <br>
